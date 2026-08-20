@@ -1,2 +1,7 @@
 INFO:root:Application started
 ERROR:root:Something went wrong
+2026-08-20 14:56:15,308 | __main__ | DEBUG | Debug message
+2026-08-20 14:56:15,309 | __main__ | INFO | Application started
+2026-08-20 14:56:15,309 | __main__ | WARNING | Low memory
+2026-08-20 14:56:15,309 | __main__ | ERROR | Database error
+2026-08-20 14:56:15,310 | __main__ | CRITICAL | Application crashed
