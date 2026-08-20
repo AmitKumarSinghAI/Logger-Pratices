@@ -1,0 +1,25 @@
+                    ┌──────────────┐
+                    │   LOGGER     │
+                    │              │
+                    │ logger.info()│
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │   HANDLER    │
+                    │              │
+                    │ FileHandler  │
+                    │ StreamHandler│
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │  FORMATTER   │
+                    │              │
+                    │ %(levelname)s│
+                    │ %(message)s  │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    employee.log
+                    OR Terminal
