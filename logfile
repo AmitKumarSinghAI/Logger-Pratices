@@ -1,0 +1,7 @@
+
+2026-08-21 05:08:17,134 | __main__ | WARNING | Please write a stronge password
+2026-08-21 05:08:17,134 | __main__ | CRITICAL | The server was crushed..
+2026-08-21 05:08:30,895 | __main__ | INFO | The app is working..
+2026-08-21 05:08:30,896 | __main__ | DEBUG | Error happens
+2026-08-21 05:08:30,896 | __main__ | WARNING | Please write a stronge password
+2026-08-21 05:08:30,896 | __main__ | CRITICAL | The server was crushed..
