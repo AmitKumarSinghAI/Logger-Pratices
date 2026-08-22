@@ -1,7 +1,7 @@
 ## This is my first logger pratices 
 
 ---
-## WorKFlow of Logging:
+## WorKFlow  Structure of Logging:
 
 
                     ┌──────────────┐
